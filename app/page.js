@@ -16,6 +16,7 @@ export default function Home() {
         <div className=" flex flex-col h-full mt-20">
           <div className="bg-zinc-900 p-5 text-center bg-opacity-40">
             <a href="https://quaterizers-organization.gitbook.io/forcesmp">Wiki</a>
+            <a href="https://map.forcemc.org/">Map</a>
           </div>
           <div className="bg-zinc-900 h-full mt-5 p-5 items-center justify-center content-center bg-opacity-40">
             <h1 className="text-5xl">ForceMC</h1>
