@@ -55,6 +55,9 @@ export default function Home() {
                     We Has Tool To check who grief your house and we can roll it back
                   </p>
                   <p className="font-normal">
+                    Server will AutoSave every 30 Minutes
+                  </p>
+                  <p className="font-normal">
                     All Bans is Permanent Bans
                   </p>
                 </li>
