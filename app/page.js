@@ -19,8 +19,8 @@ export default function Home() {
             <a href="https://map.forcemc.org/">Map</a>
           </div>
           <div className="bg-zinc-900 h-full mt-5 p-5 items-center justify-center content-center bg-opacity-40">
-            <h1 className="text-5xl">ForceMC</h1>
             <section className="mt-5">
+              <h1 className="text-5xl">ForceMC</h1>
               <p>ForceMC is a Minecraft Server for Survival Without Grief Open By Asher Rise in October 2024</p>
             </section>
             <section className=" ml-5 mt-5">
